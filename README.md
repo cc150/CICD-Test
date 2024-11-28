@@ -1,3 +1,3 @@
 # CICD-Test
 
-somethin about CICD
+something about CICD
